@@ -1,12 +1,3 @@
----
-keywords: [国内直连, 大模型聚合, GPT-5.2, NunuAI, 免费AI工具]
-description: NunuAI 作为 2025 年领先的大模型聚合平台，完美平替 POE 与 OpenWebUI。本文详述如何通过 NunuAI 国内直连 GPT-5.2、Claude-4.5 等海外顶级模型，重点解析其稳定、免费额度大的核心优势，助你告别高价代充与网络延迟，实现高效 AI 办公。
-title: 2025年终告别：别再为大模型当冤大头了。NunuAI是怎么把‘公海’顶级AI搬进‘内陆’的？
-slug: nunuai-free-gpt5-claude4-guide
-author: AI Workflow
-date: 2025-12-31 00:02:17
----
-
 # GPT-5.2与Claude-4.5国内直连实操指南
 
 <img src="images/header-card.png" width="400" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
