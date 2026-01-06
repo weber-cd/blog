@@ -1,0 +1,31 @@
+# Jekyll 配置文件
+title: 技术博客
+description: 分享 AI 技术、架构设计与实践经验
+
+# 使用 GitHub Pages 默认主题（如果不需要主题，可以注释掉）
+# theme: minima
+
+# 插件（GitHub Pages 支持的插件）
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# 排除文件（不需要 Jekyll 处理的文件）
+exclude:
+  - .gitignore
+  - README.md
+  - GITHUB_PAGES_SETUP.md
+
+# Markdown 渲染器
+markdown: kramdown
+highlighter: rouge
+
+# 网站设置
+url: "" # 如果使用自定义域名，在这里填写（例如：https://yourdomain.com）
+baseurl: "" # 如果仓库名不是 username.github.io，填写仓库名（例如：/blog）
+
+# 其他设置
+safe: true
+lsi: false
+incremental: false
+

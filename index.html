@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>技术博客</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 60px 40px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .content {
+            padding: 60px 40px;
+        }
+        
+        .blog-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+        
+        .blog-card {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 30px;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+        
+        .blog-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+            border-color: #667eea;
+        }
+        
+        .blog-card h2 {
+            color: #667eea;
+            font-size: 1.5em;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+        
+        .blog-card p {
+            color: #666;
+            line-height: 1.8;
+        }
+        
+        .blog-number {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            width: 35px;
+            height: 35px;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 35px;
+            font-weight: bold;
+            margin-right: 10px;
+            font-size: 0.9em;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 40px;
+            background: #f8f9fa;
+            color: #666;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2em;
+            }
+            
+            .content {
+                padding: 40px 20px;
+            }
+            
+            .blog-list {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚀 技术博客</h1>
+            <p>分享 AI 技术、架构设计与实践经验</p>
+        </div>
+        
+        <div class="content">
+            <div class="blog-list">
+                <a href="1.nunuai-free-gpt5-claude4-guide/" class="blog-card">
+                    <h2>
+                        <span class="blog-number">1</span>
+                        GPT-5.2与Claude-4.5国内直连实操指南
+                    </h2>
+                    <p>2025年最后一天，如果你还在折腾VPN、买那种随时会封号的海外代充，或者忍受镜像站背后偷偷换成低版本API的降智服务，那你这几年的技术圈真是白混了...</p>
+                </a>
+                
+                <a href="2.chatgpt-china-guide-2026/" class="blog-card">
+                    <h2>
+                        <span class="blog-number">2</span>
+                        国内怎么下ChatGPT？2026年的正确姿势只有这两种
+                    </h2>
+                    <p>2026版：中国区ChatGPT-5.2极速部署路径。别再浪费时间：美区Apple ID与原生IP避坑指南...</p>
+                </a>
+                
+                <a href="3.gpt52-architecture-guide/" class="blog-card">
+                    <h2>
+                        <span class="blog-number">3</span>
+                        GPT-5.2 降临：别再给 AI 当'提示词保姆'了
+                    </h2>
+                    <p>2026年了，如果你还在为'GPT又要涨价'或者'AI要抢饭碗'这种话题焦虑，那老周得泼盆冷水：GPT-5.2 真正杀死的不是你的岗位...</p>
+                </a>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>© 2026 技术博客 | Powered by GitHub Pages</p>
+        </div>
+    </div>
+</body>
+</html>
+
