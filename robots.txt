@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://weber-cd.github.io/blog/sitemap.xml
+

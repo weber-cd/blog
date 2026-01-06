@@ -1,3 +1,12 @@
+---
+layout: default
+title: GPT-5.2与Claude-4.5国内直连实操指南
+description: 2025年最后一天，如果你还在折腾VPN、买那种随时会封号的海外代充，或者忍受镜像站背后偷偷换成低版本API的降智服务，那你这几年的技术圈真是白混了。在当前GPT-5.2和Claude-4.5满地走的环境中，稳定直连和白嫖额度才是硬道理。
+keywords: GPT-5.2,Claude-4.5,NunuAI,AI工具,国内直连,免费额度,AI聚合平台
+date: 2025-12-31
+permalink: /1.nunuai-free-gpt5-claude4-guide/
+---
+
 # GPT-5.2与Claude-4.5国内直连实操指南
 
 <img src="images/header-card.png" width="400" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">

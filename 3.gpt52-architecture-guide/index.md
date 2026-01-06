@@ -1,3 +1,12 @@
+---
+layout: default
+title: GPT-5.2 降临：别再给 AI 当'提示词保姆'了，聊点架构转型的硬逻辑
+description: 2026年了，如果你还在为'GPT又要涨价'或者'AI要抢饭碗'这种话题焦虑，那老周得泼盆冷水：GPT-5.2 真正杀死的不是你的岗位，而是你那套过时的、基于固定算力的搬砖思维。
+keywords: GPT-5.2,AI架构,Thinking模式,Single Large Agent,架构转型,AI开发,提示词工程
+date: 2026-01-02
+permalink: /3.gpt52-architecture-guide/
+---
+
 # GPT-5.2 降临：别再给 AI 当'提示词保姆'了，聊点架构转型的硬逻辑
 
 <img src="images/card-1.png" width="400" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">

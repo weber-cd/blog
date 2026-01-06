@@ -1,3 +1,12 @@
+---
+layout: default
+title: 国内怎么下ChatGPT？2026年的正确姿势只有这两种
+description: 2026版：中国区ChatGPT-5.2极速部署路径。别再浪费时间：美区Apple ID与原生IP避坑指南。比起原生App，资深PM为什么更偏爱NunuAI？
+keywords: ChatGPT,GPT-5.2,国内使用,美区Apple ID,原生IP,NunuAI,AI工具,2026指南
+date: 2026-01-01
+permalink: /2.chatgpt-china-guide-2026/
+---
+
 # 国内怎么下ChatGPT？2026年的正确姿势只有这两种
 
 <img src="images/card-1.png" width="400" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
